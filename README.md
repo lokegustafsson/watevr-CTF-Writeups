@@ -1,1 +1,1 @@
-# whateverCTF-WriteUps
+# ωhατεvεr CTF team writeups
