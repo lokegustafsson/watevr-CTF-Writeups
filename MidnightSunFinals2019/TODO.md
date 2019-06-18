@@ -4,5 +4,5 @@
 - [ ] RZA
 - [ ] revlutionary
 - [ ] ARMed-Robbery
-- [ ] Devious Digital Device
+- [x] Devious Digital Device
 - [ ] shaked-and-stirred
